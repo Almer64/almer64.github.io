@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a40bb"],{"0588":function(t,e,n){"use strict";n.r(e);var c=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("p",{staticClass:"text-center m-5"},[t._v(" Здесь будет футер ")])},s=[],a=n("2877"),l={},u=Object(a["a"])(l,c,s,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0a40bb.ee408a8e.js.map

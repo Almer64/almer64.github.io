@@ -1,0 +1,1 @@
+.aside__mobile,.btn-nav{position:fixed;z-index:1000}.aside__mobile{width:3rem;left:0;height:100%;background:#4295d0;font-size:20px;color:#fff;transition:width .3s ease}.aside__mobile.active{width:50%}.aside__mobile .mobileList{opacity:0}

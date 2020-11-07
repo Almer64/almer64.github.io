@@ -1,0 +1,1 @@
+.db-layout{transition:margin .5s ease}.db-side{transition:all .3s ease;margin-left:230px}.db-side.hide{margin-left:60px}@media (max-width:768px){.db-layout .db-side.hide,div .db-side{margin:0}}.db-layout__inner{margin-top:60px}.mr-200{margin-right:200px}

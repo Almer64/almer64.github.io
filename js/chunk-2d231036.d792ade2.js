@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d231036"],{ef76:function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("table")},r=[],a=[{text:"Безкоштовний",color:"orange"},{text:"Базовий",color:"orange"},{text:"Стандарт",color:"orange"},{text:"Преміум",color:"orange"}],l={name:"tariffTable",data:function(){return{thead:a}}},c=l,u=n("2877"),f=Object(u["a"])(c,o,r,!1,null,null,null);t["default"]=f.exports}}]);
+//# sourceMappingURL=chunk-2d231036.d792ade2.js.map

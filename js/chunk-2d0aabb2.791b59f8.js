@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aabb2"],{"11ea":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("NEWS TAB")])])}],r={props:["data"]},s=r,u=t("2877"),i=Object(u["a"])(s,a,c,!1,null,"8584cb1e",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0aabb2.791b59f8.js.map
